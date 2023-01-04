@@ -88,15 +88,23 @@ class="d-flex align-items-center justify-content-center">
 </div>
 
 <div class="container">
+    <hr>
     <div class="row">
-        <!--<div class="col-12 col-md-6">
-            <img class="mb-3" style="max-width: 100%; width: 100%; border-radius: 5px;" src="publico/img/sobre/experiencia.jpeg?v=0.1">
-        </div>-->
+        <div class="col-12 col-md-6">
+            <center>
+                <img class="mb-3" style="max-width: 100%; object-fit: cover; width: 412px; height: 412px; border-radius: 50%;" src="publico/img/sobre/profile.jpeg?v=0.1">
+            </center>
+        </div>
         <div class="col-12 col-md-6">
             <div>
                 <h2 class="h1">FUNDADORA CEO</h2>
-                <p class="lead text-align-justify"><b>Etelvina Carlos</b></p>
-                <p class="lead">Doutoranda em Projetos , com especialização em projectos sociais.</p>
+                <p class="lead text-align-justify"><b>ETELVINA TOMÁS</b></p>
+                <p class="lead">Empreendedora Social Doutoranda em Projectos, Especialização em Projectos Sociais, pela FUNIBER.</p>
+                <p class="lead">Mestre em Administração pública e privada pela Faculdade de Direito Universidade de Coimbra. Licenciatura em Administração pública e privada pela Faculdade de Direito, Universidade de Coimbra. Especalização em Direito do Ordenamento, do Urbanismo e Ambiente, no CEDOUA- Coimbra/ Portugal Directora e sócia-fundadora da ESTN CONSULTING Colabora no planeamento de oferta formativa de várias instituições de ensino superior, empresas de formação profissional e outras empresas.</p>
+                <p class="lead">Formadora certificada pelo CENFOR Investigadora do CES da Universidade de Coimbra Autora de vários artigos relacionados com o e-learning. Foi docente da Universidade Lusíada de Angola e outras instituições de ensino superior de Angola. Desempenhou cargos de gestão na Banca comercial angolana e instituições de Ensino.</p>
+                <p class="lead"><b>Empresária / Gestora de profissão.</b></p>
+                <!--<p class="lead text-align-justify"><b>Etelvina Carlos</b></p>
+                <p class="lead">Doutoranda em Projetos, com especialização em projectos sociais.</p>
                 <ul>
                     <li>
                         <p>Master in Administração pública e privada pela Faculdade de Direito  Universidade de Coimbra;</p>
@@ -115,7 +123,7 @@ class="d-flex align-items-center justify-content-center">
                     <li><p>Foi docente da Universidade Lusiada de Angola  e outras instituições de ensino superior de Angola;</p></li>
                     <li><p>Desempenhou cargos de gestão na Banca comercial angolana e instituições de ensino superior;</p></li>
                     <li><p>Promotora e gestora de vários projetos sociais e de Negócios.</p></li>
-                </ul>
+                </ul>-->
             </div>
         </div>
     </div>
