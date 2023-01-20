@@ -21,7 +21,7 @@
         "turismo"   : false,
         "feedback"  : false,
         "newsletter": false,
-        "signUp"    : true,
+        "signUp"    : false,
         "pagamento" : false,
         "deliver"   : false
     },

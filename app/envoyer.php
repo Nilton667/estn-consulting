@@ -14,7 +14,7 @@
                 isset($getSystemEmail['hostName'])     ? $getSystemEmail['hostName']     : '', 
                 isset($getSystemEmail['hostEmail'])    ? $getSystemEmail['hostEmail']    : '',
                 isset($getSystemEmail['hostPassword']) ? $getSystemEmail['hostPassword'] : '',
-                array('geral@susil.ao' => 'Susil Lda'),
+                array($getSystemEmail['emissorEmail'] => $getSystemEmail['emissorName']),
                 array($email => $nome),
                 array('assunto' => $assunto, 'mensagem' => $mensagem)
             );
@@ -45,7 +45,7 @@
                 isset($getSystemEmail['hostEmail'])    ? $getSystemEmail['hostEmail']    : '',
                 isset($getSystemEmail['hostPassword']) ? $getSystemEmail['hostPassword'] : '',
                 array($email => $nome),
-                array('geral@susil.ao' => 'Susil Lda'),
+                array($getSystemEmail['receptorEmail'] => $getSystemEmail['receptorName']),
                 array('assunto' => $assunto, 'mensagem' => $mensagem)
             );
             if($send == true){
